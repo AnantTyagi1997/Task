@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Python"
+		},
+		{
+			"path": "../../../Web PBL"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Hello.C": "cpp",
+			"Singly Linked List.C": "cpp",
+			"Singly_Linked_List.C": "cpp",
+			"QueueUsingArray.C": "cpp",
+			"PolynomialUsingLinkedList.C": "cpp",
+			"AdditionOf2PolynomialUsingLinkedList.C": "cpp",
+			"CircularMatrix.C": "cpp",
+			"Binary_Tree_Using_LinkedList.C": "cpp",
+			"StackUsingArray.C": "cpp",
+			"StackUsingLinkedList.C": "cpp",
+			"TowerOfHanoi.C": "cpp",
+			"QueueUsingList.C": "cpp",
+			"Binary_Search_Tree.C": "cpp",
+			"InsertionSortwithBinarySearch.C": "cpp",
+			"QuickSort.C": "cpp",
+			"MergeSort.C": "cpp",
+			"BinarySearch.C": "cpp",
+			"PyramidStar.C": "cpp",
+			"NumericalPattern.C": "cpp",
+			"CheckPassword.C": "cpp",
+			"DistinctCount.C": "cpp",
+			"SearchLargest.C": "cpp",
+			"SumOfPro.C": "cpp",
+			"CountSpecificNumbers.C": "cpp",
+			"BalanceFruits.C": "cpp",
+			"NumberPuzzle.C": "cpp",
+			"FrequencyCount.C": "cpp",
+			"ReverseDigit.C": "cpp",
+			"SmallestGreater.C": "cpp",
+			"RatCountHouse.C": "cpp",
+			"AutoBiographicalNumber.C": "cpp",
+			"RemoveSpace.C": "cpp",
+			"SortWithoutAlgo.C": "cpp",
+			"WebcoolPattern.C": "cpp",
+			"ATM Machine.C": "cpp",
+			"WebkulPattern.C": "cpp",
+			"WebkulPattern2.C": "cpp",
+			"ATM_Machine.C": "cpp",
+			"ATM.C": "cpp",
+			"Monk&Inversion.C": "cpp",
+			"MonkAndInversion.C": "cpp",
+			"CyclicShift.C": "cpp",
+			"PalindromePunctuation.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Web PBL"
+	}
+}
