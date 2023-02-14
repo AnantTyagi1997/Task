@@ -8,7 +8,6 @@ int main()
     int high_score;
     string name;
     ofstream fout;
-	string line;
     ifstream fin("score.txt");
     fin>>name>>high_score; 
     fin.close();
