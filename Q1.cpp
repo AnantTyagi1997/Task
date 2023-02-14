@@ -5,14 +5,14 @@ int main()
     int lb=1,ub=3;
     int pc,player;
     int choice=1,count=0;
-    int high_score=INT_MIN;
+    int high_score;
     string name;
     ofstream fout;
 	string line;
     ifstream fin("score.txt");
     fin>>name>>high_score; 
     fin.close();
-    cout<<endl<<"Highest Scorer's Name:"<<name<<"\tHighest Score:"<<count<<endl;
+    cout<<endl<<"Highest Scorer's Name:"<<name<<"\tHighest Score:"<<high_score<<endl;
     char array[][20]={" ","Rock","Paper","Scissor"};
     cout<<"\nEnter your name:";
     cin>>name;
