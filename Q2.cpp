@@ -29,7 +29,7 @@ int main()
     cout<<"Enter the sum:";
 	cin>>w;
     cout<<"1. British Pound\n2. US Dollar\n3. Norwegian_Krone";
-    cout<<"\nEnter the type of currency:";
+    cout<<"\nEnter the type of currency: ";
     cin>>choice;
     if(choice==1)
     {

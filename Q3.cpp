@@ -1,10 +1,9 @@
 #include<bits/stdc++.h>
-std::string ones[20]={"","one ","two ","three ","four ","five ","six ","seven ","eight ","nine ",
+using namespace std;
+string ones[20]={"","one ","two ","three ","four ","five ","six ","seven ","eight ","nine ",
     "ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen",
     "eighteen","nineteen"};
-std::string tens[20]={"","","twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety"};
-using std::cout; using std::endl;
-using std::string; using std::reverse;
+string tens[20]={"","","twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety"};
 string numToWords(int n,string s)
     {
         string str="";
